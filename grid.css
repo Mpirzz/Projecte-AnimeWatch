@@ -1,0 +1,26 @@
+.container{
+    display: grid;
+    grid-template-columns: auto 250px;
+    grid-template-rows: 100px auto auto;
+    grid-template-areas: 
+    "header header"
+    "conte  aside"
+    "footer footer";
+}
+
+.header{
+    grid-area: header;
+}
+
+.box{
+    grid-area: conte;
+}
+
+.aside{
+    grid-area: aside;
+}
+
+.footer{
+    grid-area: footer;
+}
+
