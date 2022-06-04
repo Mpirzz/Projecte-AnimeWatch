@@ -147,6 +147,25 @@ input{
 }
 /*fin-formulari*/
 
+/*Noticis*/
+.nom-notici{
+    text-align: center;
+}
+.noticis-section{
+    padding: 10px;
+    max-width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.img-article{
+    width: 100%;
+    object-fit: cover;
+}
+
+
+
+/**/
 body{
     margin: 0;
 }
