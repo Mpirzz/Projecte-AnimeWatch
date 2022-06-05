@@ -173,6 +173,19 @@ input{
     object-fit: cover;
 }
 
+caption{
+    font-size: 20px;
+    border: 2px solid #151515;
+    background-color: #9BA3EB;
+}
+table{
+    width: 100%;
+    border: 1px solid #151515;
+}
+
+td,th{
+    border: 1px solid #151515;
+}
 
 
 /**/
