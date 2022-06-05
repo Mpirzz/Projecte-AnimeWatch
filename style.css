@@ -150,6 +150,11 @@ input{
     height: 30px;
     width: 300px;
 }
+
+.enviar input:hover{
+    transition: 00.3s;
+    background-color: #C7D36F;
+}
 /*fin-formulari*/
 
 /*Noticis*/
